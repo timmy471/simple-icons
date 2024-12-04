@@ -8262,6 +8262,12 @@
             }
         },
         {
+            "title": "J.P. Morgan",
+            "hex": "503629",
+            "source": "https://jpmorgan.com",
+            "guidelines": "https://jpmorgan.com/contact-us/media "
+        },
+        {
             "title": "jQuery",
             "hex": "0769AD",
             "source": "https://brand.jquery.org/logos/",
